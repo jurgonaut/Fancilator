@@ -1,0 +1,14 @@
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\bin\Debug\FanciLator.exe.config
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\bin\Debug\FanciLator.exe
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\bin\Debug\FanciLator.pdb
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator.csprojResolveAssemblyReference.cache
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\MainWindow.g.cs
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\App.g.cs
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator_MarkupCompile.cache
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator_MarkupCompile.lref
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\MainWindow.baml
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator.g.resources
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator.Properties.Resources.resources
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator.csproj.GenerateResource.Cache
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator.exe
+C:\Users\JURIJ\ŠOLA\PRO2\muzika\FanciLator\FanciLator\obj\Debug\FanciLator.pdb

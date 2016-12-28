@@ -1,0 +1,26 @@
+﻿<Window x:Class="FanciLator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FanciLator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="610"
+        MouseMove="Window_MouseMove" ResizeMode="NoResize"
+        MouseDown="Window_MouseDown">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="562*"/>
+            <RowDefinition Height="107*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="-21,-28,-19,0"/>
+        <Canvas x:Name="canvas" MouseLeave="canvas_MouseLeave" MouseDown="canvas_MouseDown" MouseMove="canvas_MouseMove" MouseUp="canvas_MouseUp"  HorizontalAlignment="Left" Height="523" VerticalAlignment="Top" Width="602" />
+        <Button x:Name="btnAddWave" Click="btnAddWave_Click" Content="Add wave" HorizontalAlignment="Left" Margin="491,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90" Height="29"/>
+        <Button x:Name="btnRemoveWave" Click="btnRemoveWave_Click" Content="Remove wave" HorizontalAlignment="Left" Margin="491,53,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90" Height="29"/>
+        <Label x:Name="label" Content="Wave info:" HorizontalAlignment="Left" Margin="10,11,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtWaveFreq" HorizontalAlignment="Left" Margin="85,16,0,0" Grid.Row="1" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="44"/>
+        <TextBlock x:Name="txtWaveAmpli" HorizontalAlignment="Left" Margin="85,53,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="44"/>
+        <Label x:Name="hertz" Content="Hertz" HorizontalAlignment="Left" Margin="134,11,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="proc" Content="volume (%)" HorizontalAlignment="Left" Margin="134,48,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
